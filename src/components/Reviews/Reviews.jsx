@@ -1,5 +1,5 @@
 import { useParams } from 'react-router-dom';
-import { useState, UseEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { fetchMovieReviews } from 'Services/Api';
 import { useEffect } from 'react';
 
